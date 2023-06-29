@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="hello_word">Μαλακίες</string>
+    <string name="hello_word">Hello word</string>
 </resources>
